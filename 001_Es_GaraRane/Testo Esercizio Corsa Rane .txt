@@ -1,0 +1,7 @@
+Creare il programma in Python che simuli la situazione esposta in seguito (completo di diagramma UML e FlowChart dei metodi, esclusi quelli di set e get) 
+
+In un famosa fiera annuale si compie la Corsa delle Rane che prevede che due rane si fronteggino su un percorso di 6 m e avanzino saltando ripetutamente di una distanza che dipende dal peso della rana. Vince chi per prima arriva a tagliare il traguardo. 
+Simulare tale competizione affrontando le tre fasi
+- iscrizione delle rane concorrenti
+- inizio e svolgimento gara
+- declamazione della classifica finale con dati riassuntivi della gara
